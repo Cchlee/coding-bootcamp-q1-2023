@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+
+h2 {
+    color: blue;
+}
+
+.extraLarge {
+    font-size: 30px;
+}
+
+#yachtRide {
+    background-color: black;
+    color: white;
+}
